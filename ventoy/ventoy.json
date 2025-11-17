@@ -1,0 +1,10 @@
+{
+    "theme":{
+        "file":[
+            "/ventoy/ventoy-just-black/theme.txt",
+            "/ventoy/ventoy-just-black/theme_legacy.txt"
+        ],
+        "default_file": 1,
+        "resolution_fit": 1
+    }
+}
